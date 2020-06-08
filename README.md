@@ -1,6 +1,6 @@
 # Face_Detection
 
-oBJECTIVE: 
+OBJECTIVE: 
 
 Real-time face recognition with OpenCV and Python
 
